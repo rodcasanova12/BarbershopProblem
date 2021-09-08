@@ -1,2 +1,2 @@
 # BarbershopProblem
-The intent of this code is to execute multiple queue in a Barber Shop. 
+The intent of this code is to execute multiple queues in a Barber Shop. 
